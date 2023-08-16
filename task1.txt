@@ -1,0 +1,2 @@
+How to print console.log?
+console.log("Welcome to all")
